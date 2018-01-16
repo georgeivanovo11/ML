@@ -1,3 +1,6 @@
+%% Machine Learning Online Class
+%  Exercise 1: Linear regression with one variable
+
 %---------Loading data-------------
 data = load('data1.txt');
 X = data(:, 1); y = data(:, 2);

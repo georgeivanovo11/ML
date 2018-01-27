@@ -1,5 +1,8 @@
 %Logistic regression
 
+%Predict whether a student gets admitted into
+%a university based on his results on two exams.
+
 %----------Loading data--------
 data = load('data1.txt');
 X = data(:, 1:2);
